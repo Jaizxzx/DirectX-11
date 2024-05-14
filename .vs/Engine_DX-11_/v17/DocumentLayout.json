@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|solutionrelative:Engine_DX-11\\source\\applicationclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|solutionrelative:Engine_DX-11\\source\\applicationclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|solutionrelative:Engine_DX-11\\source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|solutionrelative:Engine_DX-11\\source\\systemclass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\systemclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B1EBB363-C533-4540-B8B0-67D3021BFF9A}|Engine_DX-11\\Engine_DX-11.vcxproj|solutionrelative:Engine_DX-11\\source\\systemclass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "applicationclass.h",
+              "DocumentMoniker": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\applicationclass.h",
+              "RelativeDocumentMoniker": "Engine_DX-11\\source\\applicationclass.h",
+              "ToolTip": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\applicationclass.h",
+              "RelativeToolTip": "Engine_DX-11\\source\\applicationclass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T13:33:37.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "applicationclass.cpp",
+              "DocumentMoniker": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\applicationclass.cpp",
+              "RelativeDocumentMoniker": "Engine_DX-11\\source\\applicationclass.cpp",
+              "ToolTip": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\applicationclass.cpp",
+              "RelativeToolTip": "Engine_DX-11\\source\\applicationclass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T13:33:33.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "systemclass.cpp",
+              "DocumentMoniker": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\systemclass.cpp",
+              "RelativeDocumentMoniker": "Engine_DX-11\\source\\systemclass.cpp",
+              "ToolTip": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\systemclass.cpp",
+              "RelativeToolTip": "Engine_DX-11\\source\\systemclass.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-14T13:26:14.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "systemclass.h",
+              "DocumentMoniker": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\systemclass.h",
+              "RelativeDocumentMoniker": "Engine_DX-11\\source\\systemclass.h",
+              "ToolTip": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\systemclass.h",
+              "RelativeToolTip": "Engine_DX-11\\source\\systemclass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-14T13:03:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\main.cpp",
               "RelativeDocumentMoniker": "Engine_DX-11\\source\\main.cpp",
               "ToolTip": "D:\\Coding\\DirectX 11\\Engine_DX-11_\\Engine_DX-11\\source\\main.cpp",
               "RelativeToolTip": "Engine_DX-11\\source\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-14T12:48:55.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T12:48:55.964Z"
             }
           ]
         }
